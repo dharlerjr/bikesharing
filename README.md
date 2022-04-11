@@ -12,19 +12,19 @@ In this analysis, our primary objectives are...
 If we are able to complete these tasks, there's no chance that the angel investors aren't sold on our bike-sharing program for Des Moines, Iowa.
 
 ## Results
-1. Checkout Times for All Users
+1. Checkout Times for All Users \
 By examining our first story point, we see that a majority of bikes are returned within 20 minutes of checkout.
 
-2. Checkout Times by Gender
+2. Checkout Times by Gender \
 Furthermore, our result from 1. holds true even when filtering by Gender. In other words, within each gender type, a majority of bikes are still returned within 20 minutes of checkout.
 
-3. Trips by Weekday for Each Hour
+3. Trips by Weekday for Each Hour \
 Next, our Trips by Weekday for Each Hour heatmap conveys two logical conclusions. During the work week, most bike trips are taken before work (7am - 8am) and after work (5pm - 7pm). However, during the weekend, most bike trips are taken between the hours of 11am and 6pm. 
 
-4. Trips by Gender (Weekday per Hour)
+4. Trips by Gender (Weekday per Hour) \
 Our trend from 3. holds true when filtering by gender. However, we see that overall, KNOWN males take more trips than KNOWN females.
 
-5. User Trips by Gender by Weekday
+5. User Trips by Gender by Weekday \
 Lastly, male subscribers are by far the most popular bikeriding group.
 
 ## Summary
